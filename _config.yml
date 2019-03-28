@@ -5,8 +5,8 @@ baseurl:
 #url: https://mazhuang.org
 url: https://sanhaowuai.github.io
 date_format: "ordinal"
-title: 码志
-subtitle: "打码改变人生"
+title:
+subtitle: "尴尬且不失礼貌的微笑"
 description: "马壮的个人博客"
 keywords: 码志, Zhuang Ma, mzlogin, mazhuang
 timezone: Asia/Shanghai
