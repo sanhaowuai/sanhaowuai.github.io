@@ -2,7 +2,7 @@ var myBot = new BotUI('hello-world');
 
     myBot.message.add({ // show a message
       delay: 200,
-      content: 'Hello, my name is timi.'
+      content: 'Hello, my name is henry.'
     }).then (function (){
       myBot.message.add({
         delay: 1000,
@@ -57,7 +57,7 @@ var myBot = new BotUI('hello-world');
           return myBot.message.add ({
           delay: 1000,
           loading: true,
-          content: `Go ahead, try [my website](http://xiaokedada.com) or <a href="mailto:maoxiaoke@outlook.com">Email me.</a> </br>
+          content: `Go ahead, try [my website](https://sanhaowuai.github.io) or <a href="mailto:sanhaowuai@163.com">Email me.</a> </br>
                     Here is my [Github address](https://github.com/maoxiaoke).`
         });
         break;/*
@@ -161,7 +161,7 @@ var myBot = new BotUI('hello-world');
           return myBot.message.add({
             delay: 1000,
             loading: true,
-            content: `i'm sorry! i don't love you because i love Yuer.`
+            content: `i'm sorry! i don't love you because i love xiaomi.`
           })
 
           break;
@@ -169,7 +169,7 @@ var myBot = new BotUI('hello-world');
             return myBot.message.add({
               delay: 1000,
               loading: true,
-              content: `i don't love you too, because i love Yuer.`
+              content: `i don't love you too, because i love xiaomi.`
             })
         default:
 
