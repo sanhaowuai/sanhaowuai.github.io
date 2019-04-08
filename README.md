@@ -2,6 +2,8 @@
 
 ## 预览
 
+[fork地址](https://github.com/search?q=maoxiaoke)
+
 ### 首页
 
 ![首页](https://github.com/maoxiaoke/maoxiaoke.github.io/blob/master/styles/images/blog/blog.png?raw=true)
